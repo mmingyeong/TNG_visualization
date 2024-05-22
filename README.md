@@ -11,3 +11,5 @@ To do
 2. 같은 기준으로 랜덤샘플링해서 비교하기 (fraction별로)
 3. 0~599 까지 각 포인트 max,min 확인
 4. tutorial.ipynb, scida.ipynb 참고하여 test
+
++ 데이터 type (단위)를 얼마까지 줄일 것 인지?
