@@ -14,12 +14,10 @@ https://www.tng-project.org/data/docs/specifications/
 To do
 ------------------
 
-0. Data Specifications 다시 검토
-1. Each tng file’s all particle -> 2D slice plot (Float64)
-2. 0~599 까지 각 포인트 max,min check
-3. Random sampling hist2d
+0. ~~Data Specifications 다시 검토~~
+1. ~~Each tng file’s all particle -> 2D slice plot (Float64)~~
+2. ~~0~599 까지 각 포인트 max,min check~~
+3. ~~Random sampling hist2d~~
 4. 600 files all particle hist2d
-5. Refer to tutorial.ipynb, scida.ipynb 
-
-+ 데이터 type (단위)를 얼마까지 줄일 것 인지? -> float64 유지
-
+5. 3D cube histogram
+6. Density field calculation
